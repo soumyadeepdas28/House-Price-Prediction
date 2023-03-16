@@ -1,7 +1,7 @@
 # House-Price-Prediction
 Greetings,
 
-My name is Soumyadeep Das and I am a student at Techno India University. In this project, I will be exploring a dataset related to banking marketing strategies for term deposits.
+My name is Soumyadeep Das and I am a student at Techno India University. In this project, I will be exploring a dataset related to House Price Prediction.
 
 This challenge is focused on house price prediction in India, where the goal is to accurately predict the prices of properties using 12 influencing factors. Buyers consider various factors besides the size of the house, which makes predicting house prices a complex task. The dataset has been collected from various property aggregators across India.
 
